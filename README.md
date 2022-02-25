@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Follow 
 <a href="https://www.instagram.com/iwonman_/">
-	<div align=center>
+	
     <img 
         src="http://img.shields.io/badge/--Instagram222222?style=flat&logo=Instagram&link=https://www.instagram.com/iwonman_/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-	</div>
+	
 </a>
 <a href="https://velog.io/@iwon">
-	<div align=center>
+	
     <img 
         src="http://img.shields.io/badge/-Velog222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@iwon"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-	</div>
+	
 </a>
   <div align=center>
 	
