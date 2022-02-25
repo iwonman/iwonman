@@ -25,3 +25,8 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-Velog222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@iwon"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
