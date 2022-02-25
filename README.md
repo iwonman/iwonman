@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **iwonman/iwonman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,12 +19,12 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/iwonman_/">
     <img 
         src="http://img.shields.io/badge/--Instagram222222?style=flat&logo=Instagram&link=https://www.instagram.com/iwonman_/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 <a href="https://velog.io/@iwon">
     <img 
         src="http://img.shields.io/badge/-Velog222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@iwon"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
   <div align=center>
 	
